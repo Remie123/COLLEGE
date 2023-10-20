@@ -1,0 +1,26 @@
+KTU Mechanikos inžinerijos ir dizaino fakulteto biblioteka
+Studentų g. 56, 51424 Kaunas
+Knyga,ISBN9786094732836,Minam kartu. 40 dviračių maršrutų po Lietuvą,Solveiga Dambrauskaitė-Bakutienė,Terra Publica,2023,288,500
+Knyga,ISBN9790806000465,Šarkos dūdelė,Regina Bočkienė,Lucilijus,2023,40,400
+Knyga,ISBN9786098224092,Gedimino sapnas. Sakmė apie Vilniaus miestą,Marija Meilė Kudarauskaitė,Pamėginčius,2023,24,200
+Knyga,ISBN9786094444814,Laiko juosta jų žvilgsniais: pokalbiai iš esmės,Ignas Staškevičius,Sofoklis,2022,480,1000
+Knyga,ISBN9786098298215,Slaptieji KGB bendrininkai: agentų veikla šeštajame-devintajame dešimtmečiais,Kristina Burinskaitė,Lietuvos gyventojų genocido ir rezistencijos tyrimo centras,2022,280,500
+Knyga,ISBN9786099609362,Regėtoja,Lavisa Spell,Lietuvių laisvalaikio literatūros lyga,2022,367,750
+Knyga,ISBN9786099612911,Mano sėkmės knyga,Virginija Dambrauskienė,Pajautos grupė,2020,176,100
+Knyga,ISBN9786098061536,Lietuvos Didžiosios Kunigaikštystės valdovų ir didikų panteonas Vilniuje,Vytautas Urbanavičius,Nacionalinis muziejus Lietuvos Didžiosios Kunigaikštystės valdovų rūmai,2018,216,600
+Žurnalas,ISSN9786090308905,Meilės formulė. (Ne) viskas įskaičiuota autorių romanas priversiantis kvatoti balsu!,Svajonių knygos,2023,352,600,1
+Žurnalas,ISSN9786094871122,BEVARDĖS MERGAITĖS. Tikrų faktų įkvėpta sukrečianti istorija apie pataisos namus nepaklusnioms mergaitėms ir apie viltį drąsą bei seserystę,BALTO leidybos namai,2020,348,780,2
+Laikraštis,ISSN9786094872594,NE SAVA MIRTIMI,BALTO leidybos namai,2022,400,500,2020-09-12
+
+KTU Pagrindine Biblioteka
+Gedimino g. 50, 44239 Kaunas
+Knyga,ISBN9786098073362,Biblija arba Šventasis Raštas,Nera,Lietuvos Biblijos Draugija,2016,1314,700
+Knyga,ISBN9789986398646,Širdies labirintas,Nijolė Miliauskaitė,Lietuvos rašytojų sąjungos leidykla,2015,376,200
+Knyga,ISBN9786098088052,Diakonatas: teologija ir praktika,Algirdas Jurevičius,Vox Altera,2013,336,200
+Knyga,ISBN9789955291992,Naujoji aušra: sąmonės nubudimas,Marcelino Iragui Redín,OCD Katalikų pasaulio leidiniai,2012,310,100
+Knyga,ISBN9786098272161,Ukrainos karo pamokos,Vytautas Sinica,Valstybingumo studijų centras,2023,208,100
+Knyga,ISBN9786094418693,Pirmokykla,Benas Bėrantas,Nieko rimto,2022,32,200
+Knyga,ISBN9786099612911,Mano sėkmės knyga,Virginija Dambrauskienė,Pajautos grupė,2020,176,300
+Knyga,ISBN9786098224092,Gedimino sapnas. Sakmė apie Vilniaus miestą,Marija Meilė Kudarauskaitė,Pamėginčius,2023,24,100
+Žurnalas,ISSN9786094871122,BEVARDĖS MERGAITĖS. Tikrų faktų įkvėpta sukrečianti istorija apie pataisos namus nepaklusnioms mergaitėms ir apie viltį drąsą bei seserystę,BALTO leidybos namai,2020,348,780,2
+Laikraštis,ISSN9786094872594,NE SAVA MIRTIMI,BALTO leidybos namai,2022,400,500,2020-09-12

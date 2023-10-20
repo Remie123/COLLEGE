@@ -1,0 +1,8 @@
+C:\Users\dziug\source\repos\DARBAS\bin\Debug\DARBAS.exe.config
+C:\Users\dziug\source\repos\DARBAS\bin\Debug\DARBAS.exe
+C:\Users\dziug\source\repos\DARBAS\bin\Debug\DARBAS.pdb
+C:\Users\dziug\source\repos\DARBAS\obj\Debug\DARBAS.csproj.AssemblyReference.cache
+C:\Users\dziug\source\repos\DARBAS\obj\Debug\DARBAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\dziug\source\repos\DARBAS\obj\Debug\DARBAS.csproj.CoreCompileInputs.cache
+C:\Users\dziug\source\repos\DARBAS\obj\Debug\DARBAS.exe
+C:\Users\dziug\source\repos\DARBAS\obj\Debug\DARBAS.pdb

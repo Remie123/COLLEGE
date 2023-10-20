@@ -1,0 +1,8 @@
+C:\Users\KN203_17\Desktop\bruh\Atsiskaitymas\savarankiskas\bin\Debug\savarankiskas.exe.config
+C:\Users\KN203_17\Desktop\bruh\Atsiskaitymas\savarankiskas\bin\Debug\savarankiskas.exe
+C:\Users\KN203_17\Desktop\bruh\Atsiskaitymas\savarankiskas\bin\Debug\savarankiskas.pdb
+C:\Users\KN203_17\Desktop\bruh\Atsiskaitymas\savarankiskas\obj\Debug\savarankiskas.csproj.AssemblyReference.cache
+C:\Users\KN203_17\Desktop\bruh\Atsiskaitymas\savarankiskas\obj\Debug\savarankiskas.csproj.SuggestedBindingRedirects.cache
+C:\Users\KN203_17\Desktop\bruh\Atsiskaitymas\savarankiskas\obj\Debug\savarankiskas.csproj.CoreCompileInputs.cache
+C:\Users\KN203_17\Desktop\bruh\Atsiskaitymas\savarankiskas\obj\Debug\savarankiskas.exe
+C:\Users\KN203_17\Desktop\bruh\Atsiskaitymas\savarankiskas\obj\Debug\savarankiskas.pdb
